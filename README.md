@@ -29,7 +29,7 @@ Intersection Over Union(IoU) score:
 examples:
 
 <p align="center">
-  <img src="https://github.com/nihattolga/semantic_seg/blob/main/images/Figure.png" width="50%" >
+  <img src="https://github.com/nihattolga/semantic_seg/blob/main/images/Figure.png" width="100%" >
 </p>
 
 # TODO
