@@ -6,13 +6,13 @@ Image Segmentation Keras: UNet, Deeplab
 - [read images](https://github.com/nihattolga/semantic_seg/blob/a61dac2f9250062a46ebdcc59241c8895c1aad1c/utils.py#L47)
 - [one-hot encoding to masks](https://github.com/nihattolga/semantic_seg/blob/a61dac2f9250062a46ebdcc59241c8895c1aad1c/utils.py#L73)
 
-##train
+## train
 - build model([unet](https://github.com/nihattolga/semantic_seg/blob/a61dac2f9250062a46ebdcc59241c8895c1aad1c/train.py#L28))
 <p align="center">
   <img src="https://github.com/nihattolga/semantic_seg/blob/main/images/model_1.png" width="50%" >
 </p>
 
-##results
+## results
 <p align="center">
   <img src="https://github.com/nihattolga/semantic_seg/blob/main/images/Figure_1.png" width="50%" >
 </p>
@@ -32,7 +32,7 @@ examples:
   <img src="https://github.com/nihattolga/semantic_seg/blob/main/images/Figure.png" width="50%" >
 </p>
 
-#TODO
+# TODO
 - [ ] add weighted categorical crossentropy loss
 - [ ] try deeper models
 - [ ] add two head output model(detection and segmentation)
