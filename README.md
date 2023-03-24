@@ -33,6 +33,6 @@ examples:
 </p>
 
 # TODO
-- [ ] add weighted categorical crossentropy loss
+- [ ] add weighted categorical crossentropy loss due to loss human class detection
 - [ ] try deeper models
 - [ ] add two head output model(detection and segmentation)
