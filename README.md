@@ -1,7 +1,7 @@
 Image Segmentation Keras: UNet, Deeplab
 # semantic_seg
 
-##preprocess images
+## preprocess images
 - [extract roi on masks(humans, cars)](https://github.com/nihattolga/semantic_seg/blob/a61dac2f9250062a46ebdcc59241c8895c1aad1c/utils.py#L19)
 - [read images](https://github.com/nihattolga/semantic_seg/blob/a61dac2f9250062a46ebdcc59241c8895c1aad1c/utils.py#L47)
 - [one-hot encoding to masks](https://github.com/nihattolga/semantic_seg/blob/a61dac2f9250062a46ebdcc59241c8895c1aad1c/utils.py#L73)
